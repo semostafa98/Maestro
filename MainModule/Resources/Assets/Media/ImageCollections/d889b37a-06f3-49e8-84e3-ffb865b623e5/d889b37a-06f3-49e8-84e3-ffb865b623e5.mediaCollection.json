@@ -1,0 +1,46 @@
+{
+  "Sequence": null,
+  "Name": "Images",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "8a4c781c-7aa4-47e5-99d1-66393fe865b3",
+      "Name": "6233787.jpg",
+      "File": null
+    },
+    {
+      "Id": "d6ced4d8-260b-4ebe-9c43-5f94409c0c2d",
+      "Name": "7794856.jpg",
+      "File": null
+    },
+    {
+      "Id": "ccbeae96-b2d3-477f-a68c-f00dfe9de4d2",
+      "Name": "7868571 (1).jpg",
+      "File": null
+    },
+    {
+      "Id": "51c8c150-821b-4da2-a9dd-41f5b6cb594a",
+      "Name": "7868571.jpg",
+      "File": null
+    },
+    {
+      "Id": "800198e5-8f9b-4919-938f-cf12e3622758",
+      "Name": "pexels-andrew-neel-2312369.jpg",
+      "File": null
+    },
+    {
+      "Id": "abf158a9-f9d8-47ed-9e80-45498452faf7",
+      "Name": "pexels-i̇sra-nilgün-yılmaz-11354945.jpg",
+      "File": null
+    }
+  ],
+  "CreatedBy": "72",
+  "CreationDate": "2025-01-28T19:26:05.8224432Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "d889b37a-06f3-49e8-84e3-ffb865b623e5",
+  "MaestroBlocksEntityState": 0
+}
