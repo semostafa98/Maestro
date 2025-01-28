@@ -1,0 +1,12 @@
+{
+  "Id": "6654e30d-2f29-4f4e-b3db-e177654a5742",
+  "ProjectName": "PROJECT_NAME",
+  "DefaultDateFormat": "MM/dd/yyyy",
+  "DefaultTimeFormat": "HH:MM:SS",
+  "DefaultTimezone": "(UTC+03:00) Amman",
+  "DefaultFirstDayOfTheWeek": "Monday",
+  "AttachmentsLocationType": "",
+  "AttachmentsLocationPath": "",
+  "MaestroThemeId": "00000000-0000-0000-0000-000000000000",
+  "HomePageId": null
+}

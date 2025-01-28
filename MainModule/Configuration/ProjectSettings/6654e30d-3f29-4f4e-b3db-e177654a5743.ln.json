@@ -1,0 +1,1202 @@
+{
+  "name": "Languages",
+  "languages": [
+    {
+      "Id": "1",
+      "Code": "en",
+      "Description": "English",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "2",
+      "Code": "ar",
+      "Description": "Arabic",
+      "Direction": "1",
+      "Translations": null
+    },
+    {
+      "Id": "3",
+      "Code": "bg",
+      "Description": "Bulgarian",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "4",
+      "Code": "zh",
+      "Description": "Chinese",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "5",
+      "Code": "cs",
+      "Description": "Czech",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "6",
+      "Code": "de",
+      "Description": "German",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "7",
+      "Code": "el",
+      "Description": "Greek",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "8",
+      "Code": "fi",
+      "Description": "Finnish",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "9",
+      "Code": "aa",
+      "Description": "Afar ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "10",
+      "Code": "ab",
+      "Description": "Abkhaz ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "11",
+      "Code": "ae",
+      "Description": "Avestan ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "12",
+      "Code": "af",
+      "Description": "Afrikaans ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "13",
+      "Code": "ak",
+      "Description": "Akan ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "14",
+      "Code": "am",
+      "Description": "Amharic ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "15",
+      "Code": "an",
+      "Description": "Aragonese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "16",
+      "Code": "as",
+      "Description": "Assamese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "17",
+      "Code": "av",
+      "Description": "Avaric ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "18",
+      "Code": "ay",
+      "Description": "Aymara ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "19",
+      "Code": "az",
+      "Description": "Azerbaijani ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "20",
+      "Code": "az",
+      "Description": "South Azerbaijani ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "21",
+      "Code": "ba",
+      "Description": "Bashkir ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "22",
+      "Code": "be",
+      "Description": "Belarusian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "23",
+      "Code": "bh",
+      "Description": "Bihari ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "24",
+      "Code": "bi",
+      "Description": "Bislama ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "25",
+      "Code": "bm",
+      "Description": "Bambara ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "26",
+      "Code": "bn",
+      "Description": "Bengali",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "27",
+      "Code": "br",
+      "Description": "Breton ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "28",
+      "Code": "bs",
+      "Description": "Bosnian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "29",
+      "Code": "ca",
+      "Description": "Catalan",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "30",
+      "Code": "ce",
+      "Description": "Chechen ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "31",
+      "Code": "ch",
+      "Description": "Chamorro ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "32",
+      "Code": "co",
+      "Description": "Corsican ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "33",
+      "Code": "cr",
+      "Description": "Cree ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "34",
+      "Code": "cv",
+      "Description": "Chuvash ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "35",
+      "Code": "cy",
+      "Description": "Welsh ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "36",
+      "Code": "da",
+      "Description": "Danish ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "37",
+      "Code": "dz",
+      "Description": "Dzongkha ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "38",
+      "Code": "ee",
+      "Description": "Ewe ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "39",
+      "Code": "eo",
+      "Description": "Esperanto ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "40",
+      "Code": "es",
+      "Description": "Spanish",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "41",
+      "Code": "et",
+      "Description": "Estonian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "42",
+      "Code": "eu",
+      "Description": "Basque ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "43",
+      "Code": "fa",
+      "Description": "Persian",
+      "Direction": "1",
+      "Translations": null
+    },
+    {
+      "Id": "44",
+      "Code": "ff",
+      "Description": "Fula",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "45",
+      "Code": "fj",
+      "Description": "Fijian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "46",
+      "Code": "fo",
+      "Description": "Faroese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "47",
+      "Code": "fr",
+      "Description": "French ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "48",
+      "Code": "fy",
+      "Description": "Western Frisian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "49",
+      "Code": "ga",
+      "Description": "Irish ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "50",
+      "Code": "gd",
+      "Description": "Scottish Gaelic",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "51",
+      "Code": "gl",
+      "Description": "Galician ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "52",
+      "Code": "gu",
+      "Description": "Gujarati ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "53",
+      "Code": "gv",
+      "Description": "Manx ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "54",
+      "Code": "ha",
+      "Description": "Hausa ",
+      "Direction": "1",
+      "Translations": null
+    },
+    {
+      "Id": "55",
+      "Code": "he",
+      "Description": "Hebrew",
+      "Direction": "1",
+      "Translations": null
+    },
+    {
+      "Id": "56",
+      "Code": "hi",
+      "Description": "Hindi ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "57",
+      "Code": "ho",
+      "Description": "Hiri Motu ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "58",
+      "Code": "hr",
+      "Description": "Croatian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "59",
+      "Code": "hu",
+      "Description": "Hungarian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "60",
+      "Code": "hy",
+      "Description": "Armenian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "61",
+      "Code": "hz",
+      "Description": "Herero ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "62",
+      "Code": "ia",
+      "Description": "Interlingua ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "63",
+      "Code": "id",
+      "Description": "Indonesian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "64",
+      "Code": "ie",
+      "Description": "Interlingue ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "65",
+      "Code": "ig",
+      "Description": "Igbo ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "66",
+      "Code": "ii",
+      "Description": "Nuosu ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "67",
+      "Code": "ik",
+      "Description": "Inupiaq ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "68",
+      "Code": "io",
+      "Description": "Ido ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "69",
+      "Code": "is",
+      "Description": "Icelandic ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "70",
+      "Code": "it",
+      "Description": "Italian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "71",
+      "Code": "iu",
+      "Description": "Inuktitut ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "72",
+      "Code": "ja",
+      "Description": "Japanese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "73",
+      "Code": "jv",
+      "Description": "Javanese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "74",
+      "Code": "ka",
+      "Description": "Georgian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "75",
+      "Code": "kg",
+      "Description": "Kongo ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "76",
+      "Code": "kk",
+      "Description": "Kazakh ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "77",
+      "Code": "kl",
+      "Description": "Kalaallisut",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "78",
+      "Code": "km",
+      "Description": "Khmer ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "79",
+      "Code": "kn",
+      "Description": "Kannada ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "80",
+      "Code": "ko",
+      "Description": "Korean ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "81",
+      "Code": "kr",
+      "Description": "Kanuri ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "82",
+      "Code": "ks",
+      "Description": "Kashmiri ",
+      "Direction": "1",
+      "Translations": null
+    },
+    {
+      "Id": "83",
+      "Code": "ku",
+      "Description": "Kurdish ",
+      "Direction": "1",
+      "Translations": null
+    },
+    {
+      "Id": "84",
+      "Code": "kv",
+      "Description": "Komi ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "85",
+      "Code": "kw",
+      "Description": "Cornish ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "86",
+      "Code": "ky",
+      "Description": "Kyrgyz ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "87",
+      "Code": "la",
+      "Description": "Latin ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "88",
+      "Code": "lb",
+      "Description": "Luxembourgish",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "89",
+      "Code": "lg",
+      "Description": "Ganda ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "90",
+      "Code": "ln",
+      "Description": "Lingala ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "91",
+      "Code": "lo",
+      "Description": "Lao ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "92",
+      "Code": "lt",
+      "Description": "Lithuanian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "93",
+      "Code": "lu",
+      "Description": "Luba-Katanga ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "94",
+      "Code": "lv",
+      "Description": "Latvian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "95",
+      "Code": "mg",
+      "Description": "Malagasy ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "96",
+      "Code": "mh",
+      "Description": "Marshallese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "97",
+      "Code": "mk",
+      "Description": "Macedonian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "98",
+      "Code": "ml",
+      "Description": "Malayalam ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "99",
+      "Code": "mn",
+      "Description": "Mongolian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "100",
+      "Code": "ms",
+      "Description": "Malay ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "101",
+      "Code": "mt",
+      "Description": "Maltese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "102",
+      "Code": "my",
+      "Description": "Burmese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "103",
+      "Code": "na",
+      "Description": "Nauru ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "104",
+      "Code": "nb",
+      "Description": "Norwegian",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "105",
+      "Code": "nd",
+      "Description": "North Ndebele ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "106",
+      "Code": "ne",
+      "Description": "Nepali ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "107",
+      "Code": "ng",
+      "Description": "Ndonga ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "108",
+      "Code": "nl",
+      "Description": "Dutch ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "109",
+      "Code": "no",
+      "Description": "Norwegian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "110",
+      "Code": "nr",
+      "Description": "South Ndebele ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "111",
+      "Code": "nv",
+      "Description": "Navajo",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "112",
+      "Code": "ny",
+      "Description": "Chichewa",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "113",
+      "Code": "oc",
+      "Description": "Occitan ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "114",
+      "Code": "oj",
+      "Description": "Ojibwe",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "115",
+      "Code": "om",
+      "Description": "Oromo ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "116",
+      "Code": "or",
+      "Description": "Oriya ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "117",
+      "Code": "os",
+      "Description": "Ossetian",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "118",
+      "Code": "pa",
+      "Description": "Panjabi",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "119",
+      "Code": "pl",
+      "Description": "Polish ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "120",
+      "Code": "ps",
+      "Description": "Pashto",
+      "Direction": "1",
+      "Translations": null
+    },
+    {
+      "Id": "121",
+      "Code": "pt",
+      "Description": "Portuguese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "122",
+      "Code": "qu",
+      "Description": "Quechua ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "123",
+      "Code": "rm",
+      "Description": "Romansh ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "124",
+      "Code": "rn",
+      "Description": "Kirundi ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "125",
+      "Code": "ro",
+      "Description": "Romanian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "126",
+      "Code": "ru",
+      "Description": "Russian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "127",
+      "Code": "rw",
+      "Description": "Kinyarwanda ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "128",
+      "Code": "sc",
+      "Description": "Sardinian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "129",
+      "Code": "sd",
+      "Description": "Sindhi ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "130",
+      "Code": "se",
+      "Description": "Northern Sami ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "131",
+      "Code": "sg",
+      "Description": "Sango ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "132",
+      "Code": "si",
+      "Description": "Sinhala",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "133",
+      "Code": "sk",
+      "Description": "Slovak ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "134",
+      "Code": "sl",
+      "Description": "Slovene ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "135",
+      "Code": "sm",
+      "Description": "Samoan ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "136",
+      "Code": "sn",
+      "Description": "Shona ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "137",
+      "Code": "so",
+      "Description": "Somali ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "138",
+      "Code": "sq",
+      "Description": "Albanian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "139",
+      "Code": "sr",
+      "Description": "Serbian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "140",
+      "Code": "ss",
+      "Description": "Swati ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "141",
+      "Code": "st",
+      "Description": "Southern Sotho ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "142",
+      "Code": "su",
+      "Description": "Sundanese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "143",
+      "Code": "sv",
+      "Description": "Swedish ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "144",
+      "Code": "sw",
+      "Description": "Swahili ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "145",
+      "Code": "ta",
+      "Description": "Tamil ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "146",
+      "Code": "te",
+      "Description": "Telugu ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "147",
+      "Code": "tg",
+      "Description": "Tajik ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "148",
+      "Code": "th",
+      "Description": "Thai ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "149",
+      "Code": "ti",
+      "Description": "Tigrinya ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "150",
+      "Code": "tk",
+      "Description": "Turkmen ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "151",
+      "Code": "tl",
+      "Description": "Tagalog ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "152",
+      "Code": "tn",
+      "Description": "Tswana ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "153",
+      "Code": "to",
+      "Description": "Tonga",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "154",
+      "Code": "tr",
+      "Description": "Turkish ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "155",
+      "Code": "ts",
+      "Description": "Tsonga ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "156",
+      "Code": "tt",
+      "Description": "Tatar ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "157",
+      "Code": "tw",
+      "Description": "Twi ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "158",
+      "Code": "ty",
+      "Description": "Tahitian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "159",
+      "Code": "ug",
+      "Description": "Uyghur",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "160",
+      "Code": "uk",
+      "Description": "Ukrainian ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "161",
+      "Code": "ur",
+      "Description": "Urdu ",
+      "Direction": "1",
+      "Translations": null
+    },
+    {
+      "Id": "162",
+      "Code": "uz",
+      "Description": "Uzbek ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "163",
+      "Code": "ve",
+      "Description": "Venda ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "164",
+      "Code": "vi",
+      "Description": "Vietnamese ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "165",
+      "Code": "wa",
+      "Description": "Walloon ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "166",
+      "Code": "wo",
+      "Description": "Wolof ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "167",
+      "Code": "xh",
+      "Description": "Xhosa ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "168",
+      "Code": "yi",
+      "Description": "Yiddish ",
+      "Direction": "1",
+      "Translations": null
+    },
+    {
+      "Id": "169",
+      "Code": "yo",
+      "Description": "Yoruba ",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "170",
+      "Code": "za",
+      "Description": "Zhuang",
+      "Direction": "0",
+      "Translations": null
+    },
+    {
+      "Id": "171",
+      "Code": "zu",
+      "Description": "Zulu ",
+      "Direction": "0",
+      "Translations": null
+    }
+  ]
+}

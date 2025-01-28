@@ -1,0 +1,7 @@
+{
+  "Name":"Notification settings",
+  "SmtpClientEmailFrom": "notification@tahaluf.ae",
+  "SmtpClientEmailHost": "smtp.office365.com",
+  "SmtpClientEmailPassword": "Wafa9400",
+  "SmtpClientEmailPort": "587"
+}
